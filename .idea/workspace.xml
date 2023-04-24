@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a986a3af-8fdf-4e4c-9908-1736ed74deda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controller/Automatic_Fight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hero_Service/Hero_Behavior.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hero_Service/Hero_Service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Characters/Hero_Base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Characters/Magician.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Model/Characters/Priest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple_Fight.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/View/Game.py" afterDir="false" />
-    </list>
+    <list default="true" id="a986a3af-8fdf-4e4c-9908-1736ed74deda" name="Changes" comment="automatic fight is done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +55,14 @@
       <option name="presentableId" value="Default" />
       <updated>1682075677267</updated>
     </task>
+    <task id="LOCAL-00001" summary="automatic fight is done">
+      <created>1682337558001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682337558001</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="automatic fight is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="automatic fight is done" />
   </component>
 </project>
